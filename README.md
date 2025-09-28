@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @18safarov
 - 👀 I’m interested in programming
-- 🌱 I’m currently a 1st year student at the university
+- 🌱 I’m currently a 2st year student at the university
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
