@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Sino (@18safarov/safarsin)
+# 👋 Hi, I’m Sino (@18safarov/@safarsin)
 
 ### About Me
 - 👀 I’m interested in programming, automation and games  
