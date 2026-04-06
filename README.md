@@ -3,9 +3,9 @@
 ### About Me
 - I’m interested in programming, automation and games  
 - I’m a 2nd year university student (CTU, Applied Informatics)  
-- I’m looking to collaborate on small open-source projects, Python scripts, or educational tools  
+- I’m looking to collaborate on open-source projects, Python scripts, or educational tools  
 - How to reach me: sinosafarov1919@gmail.com or via GitHub Issues/Discussions  
-- Like working on projects that have a tangible, real-world impact
+- Like working on projects that have a real-world impact
   
 ---
 
