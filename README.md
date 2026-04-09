@@ -3,7 +3,7 @@
 ### About Me
 - I’m interested in programming, automation and games  
 - I’m a 2nd year university student (CTU, Applied Informatics)  
-- I’m looking to collaborate on open-source projects, Python scripts, or educational tools  
+- I’m looking to collaborate on open-source projects  
 - How to reach me: sinosafarov1919@gmail.com or via GitHub Issues/Discussions  
 - Like working on projects that have a real-world impact
   
@@ -19,6 +19,10 @@
 
 ---
 
+## Support
 
+If you found my project helpful and would like to support my work, you can buy me a coffee here:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/safarsin)
 
 
